@@ -1,0 +1,2 @@
+libcurses.a
+libncurses.a
